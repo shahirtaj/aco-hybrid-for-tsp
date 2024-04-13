@@ -19,4 +19,4 @@ In order to run the program, change the values of "algorithm", "filename", and "
 
 ## License
 
-Distributed under the MIT license. See ``LICENSE.md`` for more information.
+This project is distributed under the MIT License. See the [LICENSE](LICENSE) file for more information.
